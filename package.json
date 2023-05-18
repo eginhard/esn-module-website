@@ -56,6 +56,7 @@
     "build:belgium:namur": "node build.js -c belgium/namur",
     "build:belgium:nivelles": "node build.js -c belgium/nivelles",
     "build:belgium:rixensart": "node build.js -c belgium/rixensart",
+    "build:belgium:roeselare": "node build.js -c belgium/roeselare",
     "build:estonia:tallinn": "node build.js -c estonia/tallinn",
     "build:estonia:tartu": "node build.js -c estonia/tartu",
     "build:france:saint-brieuc": "node build.js -c france/saint-brieuc",
