@@ -77,6 +77,7 @@
     "build:germany:rastede": "node build.js -c germany/rastede",
     "build:germany:wiesbaden": "node build.js -c germany/wiesbaden",
     "build:greece:athens": "node build.js -c greece/athens",
+    "build:hungary:budapest": "node build.js -c hungary/budapest",
     "build:italy:bolzano": "node build.js -c italy/bolzano",
     "build:luxembourg:luxembourg": "node build.js -c luxembourg/luxembourg",
     "build:montenegro:tivat": "node build.js -c montenegro/tivat",
