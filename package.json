@@ -89,6 +89,7 @@
     "build:poland:chorzow": "node build.js -c poland/chorzow",
     "build:poland:warsaw": "node build.js -c poland/warsaw",
     "build:poland:wroclaw": "node build.js -c poland/wroclaw",
+    "build:portugal:lisbon": "node build.js -c portugal/lisbon",
     "build:serbia:belgrade": "node build.js -c serbia/belgrade",
     "build:slovakia:bratislava": "node build.js -c slovakia/bratislava",
     "build:south-africa:cape-town": "node build.js -c south-africa/cape-town",
