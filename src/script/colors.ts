@@ -19,9 +19,9 @@ const colorsDark: {[key: string]: string} = {
   mx: '#74ADD1', // male (transgender)
   x: '#74ADD1', // intersex
   nb: '#74ADD1', // non-binary
-  u: '#808080', // unknown
+  u: '#AAAAAA', // unknown
   p: '#8073AC', // multiple
-  o: '#525252' // other (not a person or multiple)
+  o: '#808080' // other (not a person or multiple)
 };
 
 export { colorsLight, colorsDark };
